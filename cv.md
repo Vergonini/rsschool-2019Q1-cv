@@ -1,8 +1,6 @@
 # Pavel Khareuka
 
-Location: Belarus,Minsk
-Phone: +375259215912
-Email: phorevko@gmail.com
+>__Location:__ Belarus,Minsk  >__Phone:__ +375259215912  >__Email:__ phorevko@gmail.com
 
 ## Target
 Getting the position of Junior front-end developer, HTML / CSS maker in a company with a friendly team, with the possibility of growth and development. The opportunity to learn new technologies and improve their existing skills.
