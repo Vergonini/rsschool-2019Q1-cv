@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.center {
+  width: 1024px;
+  height: 1500px;
+  margin: 0 auto;
+}
+
+header {
+  position: relative;
+  height: 200px;
+  background: #4c5eaa;
+}
+
+.photo {
+  position: absolute;
+  top: 22px;
+  left: 58px;
+  width: 150px;
+  height: 150px;
+  background: url(assets/photo.PNG) no-repeat 40% 51%;
+  border-radius: 100%;
+  background-size: 120%;
+}
+
+.name {
+  position: absolute;
+  top: 55px;
+  left: 327px;
+  color: #f8feff;
+  font-size: 25px;
+}
+
+.contact {
+  position: absolute;
+  top: 55px;
+  right: 50px;
+  color: #f8feff;
+  font-size: 18px;
+}
+
+.contact div {
+  margin-bottom: 10px;
+}
+
+main {
+  background: #f0f0f0;
+  display: flex;
+  padding: 30px;
+  line-height:34px;
+}
+
+.target p {
+  padding-right: 25px;
+}
+
+main section {
+  height: 210px;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.skills a {
+  text-decoration: none;
+}
